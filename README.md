@@ -1,3 +1,6 @@
+main project
+project at - https://github.com/vineetjain07/EDABK_SNN_CIM
+
 <table>
   <tr>
     <td align="center"><img src="img/bm-lab-logo-white.jpg" alt="BM LABS Logo" width="200"/></td>
